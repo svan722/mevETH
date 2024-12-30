@@ -538,7 +538,7 @@
               children: [(0, n.jsx)(s.Z, {}), (0, n.jsx)(u, {
                 children: "Copyright 2024"
               }), (0, n.jsx)(b, {
-                children: "Maximum Extractable Value Technologies Ltd."
+                children: ""
               })]
             }), (0, n.jsxs)(f, {
               children: [(0, n.jsx)(m, {
@@ -551,10 +551,10 @@
                 title: "Community",
                 links: [{
                   name: "\uD835\uDD4F (Twitter)",
-                  href: "https://x.com/"
+                  href: "https://x.com/ethanmev_fi"
                 }, {
                   name: "Telegram",
-                  href: "https://t.me/"
+                  href: "https://t.me/ethanmev_fi"
                 }]
               })]
             }), (0, n.jsxs)(x, {
@@ -577,10 +577,10 @@
                 title: "Community",
                 links: [{
                   name: "\uD835\uDD4F (Twitter)",
-                  href: "https://x.com/"
+                  href: "https://x.com/ethanmev_fi"
                 }, {
                   name: "Telegram",
-                  href: "https://t.me/"
+                  href: "https://t.me/ethanmev_fi"
                 }]
               })]
             })]
