@@ -930,7 +930,7 @@
                   (0, r.jsx)(_(), {
                     href: "/",
                     children: (0, r.jsx)(z.yA, {
-                      src: "/svg/MEV Text White.svg",
+                      src: "/logo.png",
                       alt: "Manifold LSD",
                     }),
                   }),

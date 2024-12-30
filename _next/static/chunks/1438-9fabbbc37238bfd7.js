@@ -613,13 +613,13 @@
         return (0, n.jsxs)(n.Fragment, {
           children: [(0, n.jsxs)(d(), {
             children: [(0, n.jsx)("title", {
-              children: "mevETH - Ethereum LSD Protocol"
+              children: "EthanMev - Ethereum LSD Protocol"
             }), o.indexOf("mana") > -1 ? (0, n.jsx)("link", {
               rel: "icon",
               href: "/svg/mana.svg"
             }) : (0, n.jsx)("link", {
               rel: "icon",
-              href: "/favicon.png"
+              href: "/logo.png"
             }), (0, n.jsx)("link", {
               rel: "apple-touch-icon",
               sizes: "180x180",
