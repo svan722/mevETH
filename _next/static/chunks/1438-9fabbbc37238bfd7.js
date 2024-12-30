@@ -635,7 +635,7 @@
               content: "mevETH - Ethereum LSD Protocol"
             }), (0, n.jsx)("meta", {
               property: "og:description",
-              content: "Ethereum's next-generation seamless liquid staking protocol. Built from the ground up for MEV capture and Validator rewards."
+              content: "Ethereum's next-generation seamless liquid staking protocol. Built from the ground up for EthanMev capture and Validator rewards."
             }), (0, n.jsx)("meta", {
               property: "og:image",
               content: "https://mev.io/images/twitter-card.png"
@@ -653,7 +653,7 @@
               content: "mevETH - Ethereum LSD Protocol"
             }), (0, n.jsx)("meta", {
               name: "twitter:description",
-              content: "Ethereum's next-generation seamless liquid staking protocol. Built from the ground up for MEV capture and Validator rewards."
+              content: "Ethereum's next-generation seamless liquid staking protocol. Built from the ground up for EthanMev capture and Validator rewards."
             }), (0, n.jsx)("meta", {
               name: "twitter:image",
               content: "https://mev.io/images/twitter-card.png"

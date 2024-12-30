@@ -1581,11 +1581,11 @@
               title: "How does mevETH accrue rewards?",
               answer: `mevETH stakes the ETH in the protocol into ETH validators, 
               and captures rewards from the validators. There is a 10% fee for 
-              staking with MEV Protocol, which goes to the protocol. Additionally,
-               MEV Protocol will be capturing rewards through various avenues 
-               involving MEV, and drive that to mevETH. Over time, mevETH will 
+              staking with EthanMev Protocol, which goes to the protocol. Additionally,
+               EthanMev Protocol will be capturing rewards through various avenues 
+               involving EthanMev, and drive that to mevETH. Over time, mevETH will 
                grow proportionally with the ETH it has garnished from validator 
-               rewards, and the future planned mechanisms to capture MEV.`
+               rewards, and the future planned mechanisms to capture EthanMev.`
             }, {
               title: "What is ERC-4626?",
               answer: `ERC-4626 is a standard to optimize and unify 
@@ -1602,8 +1602,8 @@
               of mevETH will not change unless you deposit or withdraw mevETH. As the 
               vault grows, your shares proportional to the vault will grow in terms of ETH`
             }, {
-              title: "What is MEV Protocol’s Staking Fee?",
-              answer: "MEV Protocol applies a 10% fee on staking rewards, which goes to the protocol."
+              title: "What is EthanMev Protocol’s Staking Fee?",
+              answer: "EthanMev Protocol applies a 10% fee on staking rewards, which goes to the protocol."
             }, {
               title: "Where can I use mevETH?",
               answer: `mevETH can be used to LP with pools on Curve and Balancer. 
