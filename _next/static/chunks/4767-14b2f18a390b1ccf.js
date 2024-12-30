@@ -1572,18 +1572,6 @@
         );
       };
       let _ = [
-        {
-          desc: "Stake your Gyroscope ECLP mevETH/WETH LP on Aura ↗",
-          title: "Aura",
-          href: "https://app.aura.finance/#/1/pool/170",
-          src: "/images/aura.png",
-        },
-        {
-          desc: "LP on Curve mevETH/frxETH pool (and soon stake it on Convex) ↗",
-          title: "Curve",
-          href: "https://curve.fi/#/ethereum/pools/factory-crypto-318/deposit",
-          src: "/svg/curve.svg",
-        },
       ];
       function J(e) {
         let { setMode: t, mode: n } = e,
