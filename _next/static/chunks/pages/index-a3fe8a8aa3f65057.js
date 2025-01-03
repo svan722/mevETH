@@ -952,7 +952,7 @@
                         style: { display: "flex", flexDirection: "row" },
                         children: [
                           (0, r.jsx)(D, {
-                            href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoontoken",
+                            href: "https://app.uniswap.org/swap?outputCurrency=0x3Aa957C2d2E8ec1D66d3B2466A9693Ed6726c386",
                             children: "Buy Now",
                           }),
                         ],
