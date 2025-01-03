@@ -952,12 +952,8 @@
                         style: { display: "flex", flexDirection: "row" },
                         children: [
                           (0, r.jsx)(D, {
-                            href: "/stake",
-                            children: "Stake now",
-                          }),
-                          (0, r.jsx)(H, {
-                            href: "#about",
-                            children: "Learn more",
+                            href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoontoken",
+                            children: "Buy Now",
                           }),
                         ],
                       }),
